@@ -1,12 +1,13 @@
 NATURE.COM JOB SCRAPING
 
-overview
+OVERVIEW
+
 This project is a web scraping script designed to extract job listings from Nature.com, specifically from the computing jobs section. The script fetches job titles, locations, and descriptions, and then stores them in a CSV file for easy analysis and usage.
 
-features
+FEATURES
 Web Scraping: Uses requests and BeautifulSoup to fetch and parse HTML content. Dynamic Data Extraction: Extracts job titles, locations, and descriptions. Data Storage: Stores the extracted data in a structured CSV file. Error Handling: Includes basic error handling for HTTP requests and data extraction.
 
-prerequisites
+PREREQUISITES 
 Python 3.x Required Python packages: requests beautifulsoup4 pandas
 
 
